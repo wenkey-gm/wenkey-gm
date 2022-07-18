@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/muni-venkatesh-ganji-b51a71179/">
   <img align="left" alt="wenkey's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/MuniVenkateshGanji/">
+<a href="https://github.com/wenkey-everest">
   <img align="left" alt="wenkey's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/Wenkeygm">
