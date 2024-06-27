@@ -23,7 +23,7 @@ I'm a Mobile Developer passionate about building robust and user-friendly mobile
 
 ## 🌟 Projects
 
-### [Project 1]([https://github.com/wenkey-gm/Katana_DRM_App])
+### [Project 1](https://github.com/wenkey-gm/Katana_DRM_App)
 A brief description of your project.
 - **Tech Stack:** Kotlin, Firebase
 
