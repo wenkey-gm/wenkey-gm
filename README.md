@@ -26,11 +26,11 @@
 
 
 - 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning react.
-- 💬 Ask me about any tech related stuff.
+- 🌱 I’m currently learning to react.
+- 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: [Twitter - @munigmvenkatesh](https://twitter.com/munigmvenkatesh)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours playing pc games.
+- ⚡ Fun fact: I spend almost 12 hours playing PC games.
 
 
 **Languages and Tools:**  
