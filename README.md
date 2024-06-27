@@ -38,5 +38,6 @@ A brief description of your project.
 
 ## 📫 Contact
 
+- Resume: [Muni Venkatesh Ganji]([Sample PDF](https://github.com/yourusername/pdf-hosting/raw/main/sample.pdf)
 - LinkedIn: [linkedin.com/muni](https://www.linkedin.com/in/muni-venkatesh-ganji-b51a71179/)
 - Email: [g.m.venkateshmuni@gmail.com](mailto:g.m.venkateshmuni@gmail.com)
