@@ -1,4 +1,4 @@
-# Hi there, I'm [Muni Venkatesh Ganji](https://github.com/wenkey-gm/resume/blob/software/muni_venkatesh_resume.pdf) 👋
+# Hi there, I'm Muni Venkatesh Ganji 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
