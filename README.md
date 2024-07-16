@@ -6,10 +6,14 @@ I'm a Mobile Developer passionate about building robust and user-friendly mobile
 
 ## 🛠 Tech Stack
 
+**Front End:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-0095D5?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007396?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-339933?style=flat&logo=react&logoColor=white)
+
 **Mobile Development:**
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 
@@ -30,11 +34,6 @@ A brief description of your project.
 ### [Project 2](https://github.com/wenkey-gm/learning_flutter_app)
 A brief description of your project.
 - **Tech Stack:** Flutter, Node.js, MongoDB
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Contact
 
