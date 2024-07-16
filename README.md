@@ -27,11 +27,11 @@ I'm a Full-Stack Developer passionate about building robust and user-friendly we
 
 ## 🌟 Projects
 
-### [Project 1](https://github.com/wenkey-gm/Katana_DRM_App)
+### [Katana DRM application](https://github.com/wenkey-gm/Katana_DRM_App)
 A Disaster Risk Management App, a help desk based on the coronavirus, consists of emergency information, live tracking, donations, Geo-fencing, Transport Pass, and Volunteer Registration for All States in India.
 - **Tech Stack:** Java, Firebase, XML, GCP.
 
-### [Project 2](https://github.com/wenkey-gm/learning_flutter_app)
+### [Flutter Excercises](https://github.com/wenkey-gm/learning_flutter_app)
 A learning project developed during teaching flutter sessions for fellow employees.
 - **Tech Stack:** Flutter, Firebase, Flutter_bloc, SQLite.
 
