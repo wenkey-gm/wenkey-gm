@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-I'm a Mobile Developer passionate about building robust and user-friendly mobile applications.
+I'm a Full-Stack Developer passionate about building robust and user-friendly web and mobile applications.
 
 ## 🛠 Tech Stack
 
@@ -28,12 +28,12 @@ I'm a Mobile Developer passionate about building robust and user-friendly mobile
 ## 🌟 Projects
 
 ### [Project 1](https://github.com/wenkey-gm/Katana_DRM_App)
-A brief description of your project.
-- **Tech Stack:** Kotlin, Firebase
+A Disaster Risk Management App, a help desk based on the coronavirus, consists of emergency information, live tracking, donations, Geo-fencing, Transport Pass, and Volunteer Registration for All States in India.
+- **Tech Stack:** Java, Firebase, XML, GCP.
 
 ### [Project 2](https://github.com/wenkey-gm/learning_flutter_app)
-A brief description of your project.
-- **Tech Stack:** Flutter, Node.js, MongoDB
+A learning project developed during teaching flutter sessions for fellow employees.
+- **Tech Stack:** Flutter, Firebase, Flutter_bloc, SQLite.
 
 ## 📫 Contact
 
