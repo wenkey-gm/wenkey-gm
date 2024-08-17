@@ -38,4 +38,4 @@ A learning project developed during teaching flutter sessions for fellow employe
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/muni](https://www.linkedin.com/in/muni-venkatesh-ganji-b51a71179/)
-- Email: [g.m.venkateshmuni@gmail.com](mailto:g.m.venkateshmuni@gmail.com)
+- Email: [muni.v.ganji@gmail.com](mailto:muni.v.ganji@gmail.com)
