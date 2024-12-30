@@ -23,6 +23,7 @@ I'm a Full-Stack Developer passionate about building robust and user-friendly we
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-FFCA28?style=flat&logo=rust&logoColor=black)
 ![python](https://img.shields.io/badge/-Python-339933?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-339933?style=flat&logo=go&logoColor=white)
 
 **Database:**
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
