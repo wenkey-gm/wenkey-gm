@@ -29,6 +29,7 @@ I'm a Full-Stack Developer passionate about building robust and user-friendly we
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-003B57?style=flat&logo=Postgresql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/-Mongodb-003B57?style=flat&logo=mongodb&logoColor=white)
 
 ## 🌟 Projects
 
