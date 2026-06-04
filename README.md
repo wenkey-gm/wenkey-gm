@@ -52,10 +52,3 @@ A Disaster Risk Management App built for emergency response during the coronavir
 ### [Flutter Exercises & Architecture](https://github.com/wenkey-gm/learning_flutter_app)
 A practical architecture repository built while mentoring junior developers on modern state management.
 - **Tech Stack:** Flutter, BLoC, SQLite.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenkey-gm&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkey-gm&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
