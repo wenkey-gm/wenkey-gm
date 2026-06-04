@@ -1,51 +1,61 @@
 # Hi there, I'm Muni Venkatesh Ganji 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wenkey-gm&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/munivg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muni.v.ganji@gmail.com)
 
-I'm a Full-Stack Developer passionate about building robust and user-friendly web and mobile applications.
+**Wireless Software Engineer | M.Sc. ICT Student @ FAU | 5G/6G & Systems Automation**
+
+I am a Software Engineer bridging the gap between cloud-native software and physical network hardware. With nearly 3 years of production engineering experience, I am currently focusing on next-generation wireless networks, hardware-in-the-loop (HIL) automation, and applied Machine Learning in telecommunications.
+
+## 🚀 About Me
+- 🎓 Pursuing an M.Sc. in Information and Communication Technology at **FAU Erlangen-Nuremberg**, specializing in 5G/6G and O-RAN.
+- ⚙️ Working on Software & Systems Automation at **Siemens Healthineers**, building HIL pipelines and real-time signal processing algorithms.
+- 📱 Previously built end-to-end cross-platform and native mobile apps (Flutter, Kotlin) at **Everest Engineering**.
+- 🐧 Passionate about self-hosting (Docker/Podman), Linux environments, and exploring local LLMs.
 
 ## 🛠 Tech Stack
 
-**FrontEnd Development:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-0095D5?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007396?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-339933?style=flat&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/-Next.js-532123?style=flat&logo=next&logoColor=white)
+**Systems, Networking & Telecommunications:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![5G](https://img.shields.io/badge/-Open5GS%20%7C%20UERANSIM-00599C?style=flat)
 
-**Mobile Development:**
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+**Mobile & Frontend Engineering:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**BackEnd Development:**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+**Backend, Data & DevOps:**
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Rust](https://img.shields.io/badge/-Rust-FFCA28?style=flat&logo=rust&logoColor=black)
-![python](https://img.shields.io/badge/-Python-339933?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-339933?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-**Database:**
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-003B57?style=flat&logo=Postgresql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/-Mongodb-003B57?style=flat&logo=mongodb&logoColor=white)
+## 🌟 Featured Projects
 
-## 🌟 Projects
+### [Performance Evaluation of QUICUP vs. GTP-U/IPsec](https://github.com/wenkey-gm/quicup-evaluation)
+Evaluated QUICUP, a novel 5G user-plane protocol, conducting comparative performance analysis against standard GTP-U and Strongswan-based IPsec. 
+- Integrated a native QUIC client/server into **UERANSIM** and **Open5GS** utilizing `msquic`.
+- Engineered dynamic multi-gNB session mapping and optimized memory pools to reduce OS-level allocation overhead.
+- Deployed a physical 5G network testbed using a **BladeRF 2.0** SDR and a COTS smartphone.
 
 ### [Katana DRM application](https://github.com/wenkey-gm/Katana_DRM_App)
+A Disaster Risk Management App built for emergency response during the coronavirus pandemic. Ranked in the Top 50 nationally in a competitive 3-month hackathon.
+- Features: Live tracking, Geo-fencing, Transport Pass, and Volunteer Registration.
+- **Tech Stack:** Java, XML, Firebase, GCP, Android SDK.
 
-A Disaster Risk Management App, a help desk based on the coronavirus, consists of emergency information, live tracking, donations, Geo-fencing, Transport Pass, and Volunteer Registration for All States in India.
+### [Flutter Exercises & Architecture](https://github.com/wenkey-gm/learning_flutter_app)
+A practical architecture repository built while mentoring junior developers on modern state management.
+- **Tech Stack:** Flutter, BLoC, SQLite.
 
-- **Tech Stack:** Java, Firebase, XML, GCP.
+## 📊 GitHub Stats
 
-### [Flutter Excercises](https://github.com/wenkey-gm/learning_flutter_app)
-
-A learning project developed during teaching flutter sessions for fellow employees.
-
-- **Tech Stack:** Flutter, Firebase, Flutter_bloc, SQLite.
-
-## 📫 Contact
-
-- LinkedIn: [linkedin.com/muni](https://www.linkedin.com/in/muni-venkatesh-ganji-b51a71179/)
-- Email: [muni.v.ganji@gmail.com](mailto:muni.v.ganji@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wenkey-gm&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkey-gm&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
