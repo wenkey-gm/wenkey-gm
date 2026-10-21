@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/munivg)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muni.v.ganji@gmail.com)
 
-**Wireless Software Engineer | M.Sc. ICT Student @ FAU | 5G/6G & Systems Automation**
+**5G/cellular software · Python test automation · ML on physical-layer data · M.Sc. ICT @ FAU**
 
 I am a Software Engineer bridging the gap between cloud-native software and physical network hardware. With nearly 3 years of production engineering experience, I am currently focusing on next-generation wireless networks, hardware-in-the-loop (HIL) automation, and applied Machine Learning in telecommunications.
 
