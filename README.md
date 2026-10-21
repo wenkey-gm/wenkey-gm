@@ -6,7 +6,9 @@
 
 **5G/cellular software · Python test automation · ML on physical-layer data · M.Sc. ICT @ FAU**
 
-I am a Software Engineer bridging the gap between cloud-native software and physical network hardware. With nearly 3 years of production engineering experience, I am currently focusing on next-generation wireless networks, hardware-in-the-loop (HIL) automation, and applied Machine Learning in telecommunications.
+Software engineer with 2.5+ years of full-time industry experience shipping production software, plus 2 years as a working
+student building Python test automation on Linux at Siemens Healthineers. Hands-on 5G prototyping in C/C++ on real
+testbeds.
 
 ## 🚀 About Me
 - 🎓 Pursuing an M.Sc. in Information and Communication Technology at **FAU Erlangen-Nuremberg**, specializing in 5G/6G and O-RAN.
